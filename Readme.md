@@ -18,7 +18,6 @@ The project combines natural language processing (NLP) with a Tkinter GUI to cre
 Core Features:
 1. AI-Powered Abuse Detection
 Uses a trained NLP model to classify messages as abusive or non-abusive.
-
 Model trained using SGDClassifier on real-world labeled tweets.
 
 2. Text Cleaning & Preprocessing
@@ -40,7 +39,8 @@ Ensures fair model training by balancing abusive and non-abusive samples using r
 4. High Accuracy
 Achieves an impressive F1 score of ~0.97, indicating reliable performance in real-world use cases.
 
-🖥️ GUI Features:
+GUI Features:
+
 5. Interactive Desktop Interface (Tkinter)
 Clean, simple GUI built with Tkinter.
 
