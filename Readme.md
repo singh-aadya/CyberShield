@@ -28,17 +28,6 @@ The project combines natural language processing (NLP) with a Tkinter GUI to cre
 * Deploying as a browser plugin or mobile app
 
 
-###  3. Table of Contents
-
-* [Project Title](#1-project-title)
-* [Project Description](#2-project-description)
-* [Table of Contents](#3-table-of-contents)
-* [How to Install and Run the Project](#4-how-to-install-and-run-the-project)
-* [How to Use the Project](#5-how-to-use-the-project)
-* [Credits](#6-include-credits)
-* [License](#7-add-a-license)
-
-
 ###  4. How to Install and Run the Project
 
 ####  Requirements:
