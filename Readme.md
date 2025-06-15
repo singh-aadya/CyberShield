@@ -4,10 +4,7 @@
 
 
 
-###  1. Project Title
-
 **CyberShield** – An AI-powered desktop tool that helps detect and flag online abuse, enabling users to take safety actions like blocking and reporting. Built for enhancing safety in digital communication platforms.
-
 
 
 ###  2. Project Description
